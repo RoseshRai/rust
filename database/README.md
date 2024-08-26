@@ -8,27 +8,27 @@ This Rust project is a playful exploration of establishing database connections 
 
 ### PostgreSQL Connections:
 
-### Asynchronous:
+## Asynchronous:
 Connect to a PostgreSQL database asynchronously using Tokio.
 
-### Synchronous: 
+## Synchronous: 
 Connect to a PostgreSQL database synchronously.
 Oracle Connections:
 
-### Synchronous: 
+## Synchronous: 
 Establish a connection to an Oracle database synchronously.
-SQLite Connections:
+### SQLite Connections:
 
-### Synchronous: 
+## Synchronous: 
 Connect to a SQLite database synchronously.
 ### MSSQL Connections:
 
-### Asynchronous: 
+## Asynchronous: 
 Connect to a Microsoft SQL Server (MSSQL) database asynchronously using Tokio.
 
 ### Connection Pooling:
 
-Create a connection pool for managing multiple PostgreSQL connections efficiently.
+Create a connection pool to manage multiple PostgreSQL connections efficiently.
 
 Usage
 
