@@ -1,0 +1,11 @@
+[package]
+name = "generics_traits_simple"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+futures = "0.3.30"
+serde = "1.0.195"
+serde_derive = "1.0.195"
+thiserror = "1.0.56"
+tokio = { version = "1.35.1", features = ["full"] }

@@ -1,0 +1,1 @@
+C:\Users\Rosesh\Documents\GitHub\rust\generics_traits_simple\target\debug\libgenerics_traits_simple.rlib: C:\Users\Rosesh\Documents\GitHub\rust\generics_traits_simple\src\lib.rs C:\Users\Rosesh\Documents\GitHub\rust\generics_traits_simple\src\library_manager.rs
