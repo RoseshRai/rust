@@ -1,8 +1,0 @@
-C:\Users\Rosesh\Documents\GitHub\rust\generics_traits_simple\target\debug\deps\libslab-8f7a48caa58ccfcf.rmeta: C:\Users\Rosesh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slab-0.4.9\src\lib.rs C:\Users\Rosesh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slab-0.4.9\src\builder.rs
-
-C:\Users\Rosesh\Documents\GitHub\rust\generics_traits_simple\target\debug\deps\libslab-8f7a48caa58ccfcf.rlib: C:\Users\Rosesh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slab-0.4.9\src\lib.rs C:\Users\Rosesh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slab-0.4.9\src\builder.rs
-
-C:\Users\Rosesh\Documents\GitHub\rust\generics_traits_simple\target\debug\deps\slab-8f7a48caa58ccfcf.d: C:\Users\Rosesh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slab-0.4.9\src\lib.rs C:\Users\Rosesh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slab-0.4.9\src\builder.rs
-
-C:\Users\Rosesh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slab-0.4.9\src\lib.rs:
-C:\Users\Rosesh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\slab-0.4.9\src\builder.rs:
